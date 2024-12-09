@@ -5,7 +5,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import os
 
-dataPath = '/Users/galgranot/Documents/galag/school/raman/'
+dataPath = '/Users/galgranot/Documents/galag/school/raman_lab5/'
 
 col1 = "Time - Plot 0"
 col2 = "Amplitude - Plot 0"
